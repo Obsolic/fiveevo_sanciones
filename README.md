@@ -2,7 +2,8 @@
  
 # Como utilizar el script?
 
-# Comandos:
+Comandos:
 
 ```/sancionar license motivo pruebas```
+
 ```/quitarsancion license ```
